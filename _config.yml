@@ -1,2 +1,3 @@
 name: Yinshi Gao
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
