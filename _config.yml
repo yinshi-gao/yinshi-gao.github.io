@@ -25,3 +25,9 @@ github: [metadata]
 cdn:
   jsdelivr:
     enabled: true
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
