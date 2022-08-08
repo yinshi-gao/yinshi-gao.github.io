@@ -1,18 +1,19 @@
-name: Yinshi (Agnes) Gao
-markdown: kramdown
-
-url: yinshi-gao.github.io
-baseurl: yinshi-gao.github.io
-
-gems:
+title: Yinshi (Agnes) Gao's Personal Webpage
+logo: /assets/img/death_valley.jpeg
+email: gaoyinshi415@gmail.com
+blank_title: true
+favicon: true
+description: ""
+show_downloads: false
+google_analytics: UA-108144808-1
+remote_theme: BDHU/minimalist
+color-scheme: light
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
   - jekyll-remote-theme
 
-remote_theme: BDHU/minimalist
-title: Yinshi (Agnes) Gao's Personal Webpage
-description: ""
-color-scheme: light
-logo: /assets/img/death_valley.jpeg
-favicon: true
 
 sidebar:
   - name: Linkedin
