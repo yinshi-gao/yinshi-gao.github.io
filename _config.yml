@@ -1,7 +1,3 @@
-name: Yinshi Gao
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-
 url: yinshi-gao.github.io
 baseurl: yinshi-gao.github.io
 
