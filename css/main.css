@@ -29,15 +29,15 @@ h1 {
 h2 {
     font-size: 1.3em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    text-align: center;
+    text-align: left;
 }
 
 p {
     font-size: 1.2em;
     font-weight: bold;
-    line-height: 1.5em;
+    line-height: 1.8em;
     color: #333;
-    text-align: center;
+    text-align: left;
 }
 
 p2{
